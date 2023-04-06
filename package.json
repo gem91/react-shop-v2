@@ -2,7 +2,7 @@
   "name": "react-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gem91.github.io/react-shop",
+  "homepage": "http://gem91.github.io/react-shop-v2",
   "dependencies": {
     "@tanstack/react-query": "^4.28.0",
     "@testing-library/jest-dom": "^5.14.1",
