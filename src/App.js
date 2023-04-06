@@ -11,7 +11,7 @@ import MyCart from 'pages/MyCart';
 import ProtectedRouter from 'pages/ProtectedRouter';
 import NewProdut from 'pages/products/NewProduct';
 import ProdeuctDetail from 'pages/products/ProdeuctDetail';
-import HeaderNav from 'components/Header/HeaderNav';
+import HeaderNav from 'components/Header';
 
 const queryClient = new QueryClient();
 function App() {
